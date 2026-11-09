@@ -36,7 +36,10 @@ function notifyUser(message) {
 
 function decodeImage(url, cors = false) {
   const image = new Image();
-  if (cors) image.crossOrigin = "anonymous";
+  if (cors) {
+    image.crossOrigin = "anonymous";
+    image.referrerPolicy = "no-referrer";
+  }
   image.src = url;
   return image.decode().then(() => image);
 }
