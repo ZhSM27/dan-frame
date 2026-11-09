@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="33 127 360 455" role="img" aria-labelledby="title desc">
+  <title id="title">Reform Epsilon, clean restoration</title>
+  <desc id="desc">A vector restoration of the Epsilon Dan emblem. Its silhouette and diagonal gradient are derived from the Reform v1 course cover.</desc>
+  <defs>
+    <linearGradient id="paint" gradientUnits="userSpaceOnUse" x1="100" y1="160" x2="420" y2="480">
+      <stop offset="0" stop-color="#fff0d9"/>
+      <stop offset=".08" stop-color="#ffefd5"/>
+      <stop offset=".12" stop-color="#ffc5b7"/>
+      <stop offset=".15" stop-color="#fdaea7"/>
+      <stop offset=".18" stop-color="#fd9697"/>
+      <stop offset=".21" stop-color="#f77d8a"/>
+      <stop offset=".25" stop-color="#ef647b"/>
+      <stop offset=".28" stop-color="#e74d71"/>
+      <stop offset=".32" stop-color="#dd3c66"/>
+      <stop offset=".36" stop-color="#be255b"/>
+      <stop offset=".40" stop-color="#9a255c"/>
+      <stop offset=".44" stop-color="#702765"/>
+      <stop offset=".49" stop-color="#3e3574"/>
+      <stop offset=".54" stop-color="#174882"/>
+      <stop offset=".58" stop-color="#03588e"/>
+      <stop offset=".62" stop-color="#01699c"/>
+      <stop offset=".66" stop-color="#248aa9"/>
+      <stop offset=".70" stop-color="#53a7b9"/>
+      <stop offset=".74" stop-color="#99cbc7"/>
+      <stop offset=".77" stop-color="#d5e2d0"/>
+      <stop offset=".80" stop-color="#fff0d8"/>
+      <stop offset=".83" stop-color="#f7e0d4"/>
+      <stop offset=".87" stop-color="#c9bccb"/>
+      <stop offset=".91" stop-color="#8994bd"/>
+      <stop offset=".96" stop-color="#456eaa"/>
+      <stop offset="1" stop-color="#235ca1"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#paint)" stroke="#14111c" stroke-width="13" stroke-linejoin="round"
+    d="M 234 140
+       C 280 139 325 151 354 174
+       C 363 181 365 188 361 199
+       L 349 235
+       C 346 247 338 251 327 247
+       C 294 233 274 222 235 223
+       C 195 223 164 238 164 261
+       C 164 290 195 301 239 301
+       L 291 301
+       C 307 301 314 308 314 324
+       L 314 367
+       C 314 384 306 390 290 390
+       L 223 390
+       C 178 390 149 406 149 431
+       C 149 459 185 481 228 485
+       C 266 488 309 471 340 460
+       C 357 454 367 460 372 477
+       L 382 510
+       C 388 531 375 546 347 556
+       C 312 570 267 574 228 574
+       C 123 574 42 523 42 445
+       C 42 398 65 363 104 339
+       C 79 325 62 295 62 264
+       C 62 191 131 140 234 140 Z"/>
+</svg>
