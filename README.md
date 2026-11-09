@@ -1,4 +1,5 @@
 # Dan Frame
+我得了一种看到希腊字母放在炫彩图片上就会笑的病
 
 [打开网页](https://zhsm27.github.io/dan-frame/)
 
