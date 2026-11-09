@@ -108,10 +108,10 @@ function getGlyph(source) {
 function showVariants() {
   const variants = select("variants");
   variants.replaceChildren();
-  for (const source of sourcesFor(active)) {
+  for (const [index, source] of sourcesFor(active).entries()) {
     const button = document.createElement("button");
     button.type = "button";
-    button.textContent = source.label;
+    button.textContent = `选项${index + 1}`;
     button.setAttribute("aria-pressed", String(source.key === activeSource?.key));
     button.addEventListener("click", () => selectGlyph(active, source.key));
     variants.append(button);
